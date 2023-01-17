@@ -109,7 +109,7 @@ Execute the program
 </html>
 ```
 
-# OUPUT
+# OUTPUT
 ![OUTPUT](output.png)
 
 # HTML VALIDATOR
